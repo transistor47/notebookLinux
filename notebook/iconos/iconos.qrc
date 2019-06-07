@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>iconfinder_copy_172587.png</file>
+        <file>iconfinder_edit-paste_118923.png</file>
+        <file>iconfinder_Open_1493293.png</file>
+        <file>iconfinder_scissors_1054985.png</file>
+        <file>iconfinder_stock_save-as_79524.png</file>
+        <file>icono.png</file>
+    </qresource>
+</RCC>
